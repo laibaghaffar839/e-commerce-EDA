@@ -5,10 +5,6 @@ Converted from Jupyter Notebook: notebook.ipynb
 Conversion Date: 2025-09-19T03:00:51.063Z
 """
 
-# ## Student Name: Laiba Shahzadi  
-# ## Roll No: FA23-BST-036  
-# ## Section: BST-B  
-
 # #### Load the Libraries
 import pandas as pd
 import numpy as np
