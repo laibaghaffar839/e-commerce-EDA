@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-"""
-Converted from Jupyter Notebook: notebook.ipynb
-Conversion Date: 2025-09-19T03:00:51.063Z
-"""
 
 # #### Load the Libraries
 import pandas as pd
